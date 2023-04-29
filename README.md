@@ -1,8 +1,8 @@
 ### Olá, sou Rodrigo Medeiros
 
-* 📚 Engenheiro da Computação e Mestre em Engenharia Elétrica - Computação Aplicada e MBA em Data Science e Analitycs 
+* 📚 Engenheiro da Computação, Mestre em Engenharia Elétrica - Computação Aplicada e MBA em Data Science e Analitycs 
 * 👨‍💻 Trabalho com linguagens de programação C/C++, Python e R
-* ✔️ Procuro fazer projetos que voltados a Ciência de Dados
+* ✔️ Procuro fazer projetos voltados à Ciência de Dados
 * 📳 Adoro bater cabeça com coisas de Internet das Coisas
 * 🎰 Procurando aprender mais sobre Aprendizado de Máquina em Sistemas Embarcados
 
