@@ -15,6 +15,6 @@
 ##
   
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/rodrigo-medeiros-41799441" target="_blank"><img src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>  
+  <a href="https://www.linkedin.com/in/rodrigo-mdc" target="_blank"><img src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>  
   <a href = "mailto:eng.rodrigomdc@gmail.com"><img src="https://img.icons8.com/office/48/000000/email.png"/></a>
 </div>
