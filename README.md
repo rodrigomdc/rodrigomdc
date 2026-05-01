@@ -6,11 +6,6 @@
 * 📳 Adoro bater cabeça com coisas de Internet das Coisas
 * 🎰 Procurando aprender mais sobre Aprendizado de Máquina em Sistemas Embarcados
 
-<div align="center">
-  <a href="https://github.com/rtheodoro">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigomdc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigomdc&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ##
   
